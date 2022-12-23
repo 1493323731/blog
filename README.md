@@ -16,7 +16,7 @@ vue3,vue route,pinia,vite,axios
 9.使用pinia进行状态管理  
 10.设置请求拦截器在发送请求前添加业务
 ## 项目难点
-1.配置wangEditor5富文本编辑器
+1.配置wangEditor5富文本编辑器  
 2.搭建服务器
 ## 不足
 使用导航守卫限制路由跳转
