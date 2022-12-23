@@ -19,4 +19,4 @@ vue3,vue route,pinia,vite,axios
 1.配置wangEditor5富文本编辑器  
 2.搭建服务器
 ## 不足
-使用导航守卫限制路由跳转
+没有使用导航守卫限制路由跳转
