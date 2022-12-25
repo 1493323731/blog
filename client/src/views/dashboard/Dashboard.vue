@@ -11,11 +11,8 @@
     </div>
 </template>
 <script setup>
-import { AdminStore } from '../../stores/AdminStore';
-import { useRouter, useRoute } from 'vue-router';
+import { useRouter } from 'vue-router';
 const router = useRouter();
-const route = useRoute();
-const adminStore = AdminStore();
 //菜单
 let menus = [
     { name: "文章管理", href: "/dashboard/article" },

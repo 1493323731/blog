@@ -60,9 +60,7 @@
 
 import { AdminStore } from '../../stores/AdminStore';
 import { ref, reactive, inject, onMounted } from 'vue';
-import { useRouter, useRoute } from 'vue-router';
-const router = useRouter();
-const route = useRoute();
+
 
 const message = inject("message");
 const dialog = inject("dialog");
